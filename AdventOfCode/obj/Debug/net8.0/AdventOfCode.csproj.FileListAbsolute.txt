@@ -1,0 +1,17 @@
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode.deps.json
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode.runtimeconfig.json
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode.dll
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/bin/Debug/net8.0/AdventOfCode.pdb
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.AssemblyInfoInputs.cache
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.AssemblyInfo.cs
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.csproj.CoreCompileInputs.cache
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.dll
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/refint/AdventOfCode.dll
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.pdb
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/AdventOfCode.genruntimeconfig.cache
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/obj/Debug/net8.0/ref/AdventOfCode.dll
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/bin/Debug/net8.0/Input/day1.txt
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/bin/Debug/net8.0/Input/day2.txt
+/home/adrian/RiderProjects/AdventOfCode/AdventOfCode/bin/Debug/net8.0/Input/day3.txt
