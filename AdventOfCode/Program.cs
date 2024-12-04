@@ -2,5 +2,5 @@
 
 using AdventOfCode;
 
-var task = new Day3();
+var task = new Day4();
 await task.SolveAsync();
